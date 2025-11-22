@@ -43,16 +43,10 @@ export default function Home() {
         </h3>
       </div>
 
-      {/* Powered By DoorVi */}
+      {/* Powered By Door VI */}
       <div className="flex items-center gap-2 text-white text-sm md:text-base">
         <span className="uppercase">Powered by</span>
-        <div className="w-6 h-6 bg-white rounded-md flex items-center justify-center">
-          <span className="text-[#2563eb] font-bold text-xs">D</span>
-        </div>
-        <span>
-          <span className="font-normal">Door</span>
-          <span className="font-bold">Vi</span>
-        </span>
+        <span className="font-normal">Door VI</span>
       </div>
     </main>
   )
