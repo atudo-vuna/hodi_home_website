@@ -30,7 +30,7 @@ export default function Home() {
         {/* HODI Logo - Image */}
         <div className="w-20 h-20 relative flex items-center justify-center">
           <Image
-            src="/logo.png"
+            src="/hodilogo.jpeg"
             alt="HODI Logo"
             width={80}
             height={80}
