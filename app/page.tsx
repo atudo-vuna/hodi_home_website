@@ -46,10 +46,7 @@ export default function Home() {
       {/* Powered By Door VI */}
       <div className="flex items-center gap-2 text-white text-sm md:text-base">
         <span className="uppercase">Powered by</span>
-        <span>
-          <span className="font-normal">Door </span>
-          <span className="font-bold">VI</span>
-        </span>
+        <span className="font-bold">Door VI</span>
       </div>
     </main>
   )
